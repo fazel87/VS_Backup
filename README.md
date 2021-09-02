@@ -3,7 +3,7 @@ Backup Visual Studio Project
 # How to Install
 Get Code [here](https://github.com/fazel87/VS_Backup/archive/refs/heads/main.zip)<br>
 open sln file and Build<br>
-create Tools Folder in C:\<br>
+create Tools Folder in C:\\ <br>
 copy project release items to C:\Tools<br>
 # How to Use
 open your prjoect and duble click to properties<br>
