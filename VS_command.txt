@@ -1,0 +1,1 @@
+CALL C:\Tools\VS_BackupTools.exe $(SolutionDir) [PathBackup]$(ProjectName) $(ConfigurationName)
